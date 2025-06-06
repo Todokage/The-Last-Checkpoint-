@@ -1,1 +1,7 @@
-# The-Last-Checkpoint-
+When I joined the software development bootcamp, I was fresh out of high school with no prior knowledge of coding. Despite my lack of experience, I had a genuine interest and passion for learning how to code. I was eager to explore this new world and see where it could take me.  
+
+Joining the class introduced me to a diverse group of curious individuals, each with different perspectives and levels of experience in the tech world. It was truly fascinating to listen to their stories and ideas on how to grow and succeed in the tech space. This environment not only fueled my curiosity but also broadened my understanding of the many paths one can take within the industry.  
+
+Throughout my time at Go My Code, I have learned a great deal. The skills I acquired extend beyond just coding; I also gained valuable soft skills that I believe are crucial for personal growth in this field. These skills have helped me develop a more well-rounded approach to my work and future career.  
+
+Personally, I feel that I have been taught what is necessary for my professional journey so far. However, I am aware that learning is an ongoing process. I aspire to continue building myself—improving my skills, gaining more knowledge, and becoming more equipped to face the challenges of the tech industry. I am committed to continuously developing and evolving to become a better developer and a valuable contributor in this field.
